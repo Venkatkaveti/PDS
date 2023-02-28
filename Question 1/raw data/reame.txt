@@ -1,0 +1,7 @@
+The data contains five different attributes 'Height (Inches) , Weight (Pounds) , Age , Grip strength , Frailty '. The idea is to build a predictive model for frailty. Before model building, data pre-processing is very important, on observing the data the dependent variable 
+
+Stage 1: Consider every attribute and explain about them, including how are they measured and how it could affect the results, save all the explanation in a text file (Readme.txt). Also save the about table as a csv file (frailty_data.csv). 
+
+Stage 2: There are no invalid, irrational, or missing values after visualization of data (scatter plot). Therefore, we can train a predictive model using raw data as input directly.
+
+Stage 3: Now fit the data into multiple frailty detection models and analyze the results produced from those models.
